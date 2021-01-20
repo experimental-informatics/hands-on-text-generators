@@ -45,7 +45,7 @@ No programming knowledge is necessary to participate in the basic seminar. At th
 
 **Basics in Anaconda & Jupyter Notebooks:**
 
-* [KI_Workaround_installieren](https://exmediawiki.khm.de/exmediawiki/index.php/KI_Workaround_installieren)
+* [KI_Workaround_installieren](https://exmediawiki.khm.de/exmediawiki/index.php/KI_Workaround_installieren#Anaconda_2)
 
 ---
 
