@@ -74,7 +74,7 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ### Hands on Markov Chains
 
-* markov notebooks
+[Markov Basic](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb)
 
 ---
 
