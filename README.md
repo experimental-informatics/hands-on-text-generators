@@ -8,8 +8,7 @@ Georg Trogemann, Christian Heck, Mattis Kuhn
 
 Grundlagenseminar Material/Skulptur/Code
 
-Compact seminar 10:00 - 17:00
-25.01.2021 until 29.01.2021 
+Compact seminar 10:00 - 17:00 | 25.01.2021 until 29.01.2021 
 
 Online: https://bbb.khm.de/b/chr-5bl-lc6
 
