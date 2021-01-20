@@ -21,13 +21,6 @@ Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
 
 ### Description
 
-Introduction to programming text generators
-
-Basic Seminar Material/Sculpture/Code
-Compact seminar 10:00 - 17:00
-25.01.2021 until 29.01.2021
-Filzengraben 8-10, 0.2 Experimental Computer Science
-
 The generation of text by means of Deep Neural Nets (NLG) is currently spreading rapidly in a wide variety of areas. Among other things, text-based dialogue systems such as chatbots, assistance systems (Alexa/Siri) or robot journalism are increasingly being used in news portals, e-commerce, social media, health and logistics. Everywhere where context-based, natural language or reader-friendly texts are to be generated from structured data.
 
 Deep writing techniques have also found their way into the arts and literature with the help of models such as ELMo (Embeddings from Language Models), BERT (Bidirectional Encoder Representations from Transformers) or GPT-2 (Generative Pre-Training Transformer). The latter was described last year as the most powerful and dangerous AI to date, so the OpenAI developer platform kept the code closed for the time being due to concerns about possible misuse (fake news on the fly, etc.). In the meantime, it is open and, as it turned out, not quite so dangerous after all.
