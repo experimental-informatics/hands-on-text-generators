@@ -68,7 +68,10 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 * Notebook mit code-snippets á la 
   * <https://exmediawiki.khm.de/exmediawiki/index.php/Maschinelles_Lesen#How_to_get_the_trainigdata.3F> 
-* liste mit beispieldatenbanken auf die man zugreifen kann.
+  
+[scraper_wikipedia.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
+
+* todo: liste mit beispieldatenbanken auf die man zugreifen kann.
 
 ---
 
