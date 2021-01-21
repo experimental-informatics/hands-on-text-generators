@@ -64,14 +64,14 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ### Hands on Markov Chains
 
-* [Markov Basic](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb)
+* [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb)
 
 ---
 
-### Hands on ...
+### Hands on Interaktive Text Generation (with Markov Basic)
 
-* **...**
-  * [link TO NOTEBOOK]()
+
+  * [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb)
 
 ---
 
