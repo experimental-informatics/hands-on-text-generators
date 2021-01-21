@@ -68,7 +68,7 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ---
 
-### Hands on Interaktive Text Generation (with Markov Basic)
+### Hands on Interactive Text Generation (with Markov Basic)
 
 
   * [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb)
