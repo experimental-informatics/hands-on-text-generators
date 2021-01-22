@@ -66,33 +66,11 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 * [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb)
 
----
+* [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb)
 
-### Hands on Interactive Text Generation (with Markov Basic)
+* [markov_n-grams.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb)
 
 
-  * [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb)
-
----
-
-### Hands on ...
-
-* **...**
-  * [link TO NOTEBOOK]()
-
----
-
-### Hands on ...
-
-* **...**
-  * [link TO NOTEBOOK]()
-
----
-
-### Hands on ...
-
-* **...**
-  * [link TO NOTEBOOK]()
 
 ---
 
