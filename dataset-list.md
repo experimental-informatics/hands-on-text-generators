@@ -14,7 +14,7 @@ Today's large AI models are increasingly created by individual companies, such a
 
 The size of state-of-the-art language models is growing by a factor of 10 every year, and the training dataset for GPT-3 consists of nearly 500 billion words from the Internet, largely through web scraping. 
 
-![moedels-and-datasets](/home/whoami/CLOUDS/exMedia_Machines/christian/seminar-textgeneratorcoding/moedels-and-datasets.png)
+![moedels-and-datasets](./data/moedels-and-datasets.png)
 
 
 
