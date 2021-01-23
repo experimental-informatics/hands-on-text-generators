@@ -38,6 +38,9 @@ No programming knowledge is necessary to participate in the basic seminar. At th
 
 - *You can run, execute and work on the following Notebooks here:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/experimental-informatics/hands-on-text-generators/HEAD)
 
+**Folder in KHM-Cloud:**
+
+- *[Here](https://wolke.khm.de/index.php/s/zt3kEbcs5a9GzLY) you can find some material for the seminar*
 ---
 
 ### Setting Up on your machine
