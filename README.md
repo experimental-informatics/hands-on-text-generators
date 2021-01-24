@@ -59,7 +59,7 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ### Hands on Datasets
   
-* [scraper_wikipedia.ipynb](https://github.com/experimental-informatics/hands-on-python/blob/master/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
+* [scraper_wikipedia.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/scraper_wikipedia.ipynb) < extract text of specific wikipedia articles
 * [scrape-load_textcorpora.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/scrape-load_textcorpora.ipynb) < some basic examples and code-snippets to srape, load and walk through datasets
 * [dataset-list.md](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/dataset-list.md) < just some resources of datasets & archives
 
