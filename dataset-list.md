@@ -25,11 +25,9 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 ### specialized Datasets for NLP-Tasks
 
 Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible:
-
 * https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html
 
 COSMOV gathers corpora on the language of social movements in the German-speaking world and makes them accessible for online analysis.
-
 * [COSMOV – Corpora for Social Movement Research](http://www.cosmov.uzh.ch/)
 
 ---
@@ -39,10 +37,11 @@ COSMOV gathers corpora on the language of social movements in the German-speakin
 * [Project Gutenberg](www.gutenberg.org)  Library with of over 60,000 free eBook
 * [Internet Archive](https://archive.org/) a non-profit  digital library offering free universal access to books, movies &  music, as well as 525 billion archived web pages.
 * [UbuWeb](https://ubu.com/) probably the biggest educational resource on the web for avant-garde material (founded by Kenneth Goldsmith)
+* [hor.de](https://hor.de/index.html) is a huge collection of public domain German-language poems, notes and word lists
 
 ---
 
-#### social movements...:
+#### social movements...
 
 * [Bibliotheks-Verbundkatalog antifaschistischer Archive](http://bibliothek.antifa-archiv.org/) 
 * [Verzeichnis Freier Archive, Bibliotheken und Dokumentationsstellen in Deutschland](http://afas-archiv.de/verzeichnis-freier-archive/)
