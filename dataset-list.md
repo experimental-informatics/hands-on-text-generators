@@ -22,13 +22,11 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 
 ---
 
-### 1. specialized Datasets for NLP-Tasks
+### specialized Datasets for NLP-Tasks
 
 Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible:
 
 * https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html
-
-
 
 COSMOV gathers corpora on the language of social movements in the German-speaking world and makes them accessible for online analysis.
 
@@ -36,7 +34,7 @@ COSMOV gathers corpora on the language of social movements in the German-speakin
 
 ---
 
-## (Free) Online Archives
+### (Free) Online Archives
 
 * [Project Gutenberg](www.gutenberg.org)  Library with of over 60,000 free eBook
 * [Internet Archive](https://archive.org/) a non-profit  digital library offering free universal access to books, movies &  music, as well as 525 billion archived web pages.
@@ -52,6 +50,15 @@ COSMOV gathers corpora on the language of social movements in the German-speakin
 * [Archiv des Informationszentrums Dritte Welt](https://www.iz3w.org/projekte/das-dritte-welt-archiv)
 * [Antifaschistisches Pressearchiv und Bildungszentrum](https://www.apabiz.de/) (apabiz) in Berlin
 * [Bibliothek der Freien](https://www.bibliothekderfreien.de/), the biggest anarchist lib.
+
+---
+
+#### open / shadow librairies
+
+- z-lib.org https://z-lib.org/ 
+  - Z-Library (z-lib, formerly stylized as BookFinder) is a shadow library and file-sharing project for scholarly journal articles, academic and general-interest books. Z-Library says the project provides access to more than 5.5 million books and over 77.5 million articles
+- http://the-eye.eu/ An Open Directory Data Archive
+  - The-Eye is a non-profit, community driven platform dedicated to the  archiving and long-term preservation of any and all data including but  by no means limited to...   websites, books, games, software, video, audio, other digital-obscura and ideas.
 
 ---
 
@@ -84,4 +91,3 @@ Greek artist Ilan Manouach addresses such questions of authorship in his comic "
 Nick Thurston also directed our gaze into the White Box of the Artificial Artificial Intelligence, whose work processes are not invisible, but rather simply no longer traceable and verifiable. In this regard, artist Johanna Drucker's brief introduction to Thurston's work critical of computer capitalism, "The first ‘computers’ were people, hired to do the tedious work of  creating accounting systems and tax roles for the administration of  newly created bureaucratic structures in post-Revolutionary France.* Of the Subcontract *presents the poems of their descendants. While this imaginative project extends a line of conceptualist practice that shows us how forms of  aesthetic expression take root in the broader culture and what the  continuum of amateur and professional work is, it also shows us how  poetic acts, like other modes of production, conceal the contradictions  and inequities of labour and value in a global world*".
 
 * see Interview with Thurston about this work: http://writing.upenn.edu/epc/authors/thurston/Voyce-and-Thurston_Iowa%20Review%20interview_2014.pdf
-
