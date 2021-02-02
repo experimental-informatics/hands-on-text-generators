@@ -69,6 +69,8 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 * [n_order_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/n_order_text_generation.ipynb) < text generation from zero-order (pure random) via first-order (probability through quantity) and second-order (markov-chain based on one token) to n-order (markov chain based on n token)
 
+* [markov_simple.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_simple.ipynb) < a simple ready to use version of n-order markov chains based on n_order_text_generation.ipynb
+
 * [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb) < next word recommendation via markov chain
 
 * [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb) < word-level markov chain
