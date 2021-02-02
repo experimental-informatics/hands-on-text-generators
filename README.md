@@ -67,11 +67,13 @@ see repository: https://github.com/experimental-informatics/hands-on-python
 
 ### Hands on Markov Chains
 
-* [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb)
+* [n_order_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/n_order_text_generation.ipynb) < text generation from zero-order (pure random) via first-order (probability through quantity) and second-order (markov-chain based on one token) to n-order (markov chain based on n token)
 
-* [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb)
+* [interactive_text_generation.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/interactive_text_generation.ipynb) < next word recommendation via markov chain
 
-* [markov_n-grams.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb)
+* [markov_basic.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_basic.ipynb) < word-level markov chain
+
+* [markov_n-grams.ipynb](https://github.com/experimental-informatics/hands-on-text-generators/blob/master/markov_n-grams.ipynb) < word-level markov chain based on n-grams
 
 
 
