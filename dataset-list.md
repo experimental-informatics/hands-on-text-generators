@@ -42,36 +42,6 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 
 https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html: Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible
 
-### German Translation & Parallel Text Datasets
-
-[Cross-lingual projection of semantic roles](http://www.nlpado.de/~sebastian/data/srl_data.shtml): An annotated 1000-sentence dataset from the English-German EUROPARL bitext parallel corpora.
-
-[German-English Text](https://github.com/bicici/SMTData/blob/master/German-English_WordAlignment.zip): A manually aligned German-English parallel corpus for word alignment.
-
-[Vietnamese German Dataset](https://www.kaggle.com/flightstar/vietnamese-german-dataset): Vietnamese-German dictionary used for model transformation languages in deep learning, machine learning, and dictionary applications.
-
-### German Sentiment Analysis Datasets
-
-[SentimentWortschatz](https://www.kaggle.com/rtatman/german-sentiment-analysis-toolkit): A German sentiment analysis toolkit containing 3,468 German words  sorted by sentiment. It lists positive and negative polarity bearing  words as well as their part-of-speech tag and inflections (if  applicable).
-
-[The Potsdam Twitter Sentiment Corpus](https://github.com/WladimirSidorenko/PotTS): A dataset of 7,992 German tweets manually annotated with fine-grained  opinion relations. The dataset includes sentiment-relevant elements such as opinion spans, their respective sources and targets, as well as  terms with their possible contextual negations and modifiers.
-
-[German Emotion Dictionary](https://bitbucket.org/rklinger/german-emotion-dictionary/): In this repository, dictionaries for German emotion analysis for seven fundamental emotions are available.
-
-[SCARE](http://www.romanklinger.de/scare/): A sentiment corpus of Google Play Store app reviews with fine-grained  annotations in German. For each review the mentioned application aspects (e.g. application design or usability), subjective phrases, and  polarity are annotated.
-
-[Opinion Compound Dataset](http://www.coli.uni-saarland.de/~miwieg/naacl_2016_op_compounds_data.tgz): A dataset of roughly 3,000 German compounds that have been annotated with regard to opinion roles.
-
-[ANGST German affectiveness ratings](http://link.springer.com/article/10.3758/s13428-013-0426-y): Valence, arousal, dominance ratings for about one thousand German words.
-
-### German Audio Datasets
-
-[Open Speech Data Corpus for German](http://www.voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german): Audio recordings using several speakers from the LT and the  Teleccoperation group. The dataset contains roughly 35 hours of speech,  featuring about 180 speakers reading sentences from German Wikipedia,  protocols from European Parliament and individual commands.
-
-[Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/): Dataset of aligned spoken Wikipedia articles from the English, German,  and Dutch Wikipedia. Hundreds of hours of aligned audio, and annotations can be mapped back to the original html.
-
-[CSS10 German](https://www.kaggle.com/bryanpark/german-single-speaker-speech-dataset): Single speaker speech datasets in German, composed of short audio clips from LibriVox audiobooks and their aligned texts.
-
 ---
 
 ### (Free) Online Archives
