@@ -18,17 +18,59 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 
 
 
-## just a tiny list of dataset resources
+## just a tiny list of text-dataset resources
 
 ---
 
-### specialized Datasets for NLP-Tasks
+### German Text Datasets
 
-Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible:
-* https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html
+[Huge German Corpus (HGC)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/hgc.en.html): A collection of 12.2 million sentences of German newspaper and law  texts. All content has been lemmatized and part-of-speech tagged by  TreeTagger.
 
-COSMOV gathers corpora on the language of social movements in the German-speaking world and makes them accessible for online analysis.
-* [COSMOV – Corpora for Social Movement Research](http://www.cosmov.uzh.ch/)
+[3 Million German Sentences](https://www.kaggle.com/rtatman/3-million-german-sentences): 3 million German sentences taken from 2015 newspaper texts.  Non-sentences and non-German text has been removed, and information on  word frequency is also included.
+
+[German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset): 12,190 German recipes taken from [chefkoch.de](https://www.chefkoch.de/). Each document contains information about ingredients, instructions, creation date and more.
+
+[German Political Speeches Corpus](http://purl.org/corpus/german-speeches): A collection of 21st century political speeches held by top German  representatives from the German Presidency, Ministry of Foreign Affairs, Chancellery, and Presidency of the Bundestag.
+
+[NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A syntactically annotated corpus of German newspaper texts. Free on  request for all Universities and non-profit organizations. However, you  need to sign and send a form in order to obtain the complete dataset.
+
+[Digitales Woerterbuch der deutschen Sprache (dlexDB)](http://www.dlexdb.de/): A lexical database for psychological and linguistic research in German. The dataset contains over 100 million German word tokens.
+
+[Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): The first German topic classification dataset. It contains 10,273 German language news articles split up into nine classes.
+
+[SUBTLEX-DE](http://crr.ugent.be/subtlex-de/): Word frequencies of 25.4 million words from film and television subtitles.
+
+https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html: Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible
+
+### German Translation & Parallel Text Datasets
+
+[Cross-lingual projection of semantic roles](http://www.nlpado.de/~sebastian/data/srl_data.shtml): An annotated 1000-sentence dataset from the English-German EUROPARL bitext parallel corpora.
+
+[German-English Text](https://github.com/bicici/SMTData/blob/master/German-English_WordAlignment.zip): A manually aligned German-English parallel corpus for word alignment.
+
+[Vietnamese German Dataset](https://www.kaggle.com/flightstar/vietnamese-german-dataset): Vietnamese-German dictionary used for model transformation languages in deep learning, machine learning, and dictionary applications.
+
+### German Sentiment Analysis Datasets
+
+[SentimentWortschatz](https://www.kaggle.com/rtatman/german-sentiment-analysis-toolkit): A German sentiment analysis toolkit containing 3,468 German words  sorted by sentiment. It lists positive and negative polarity bearing  words as well as their part-of-speech tag and inflections (if  applicable).
+
+[The Potsdam Twitter Sentiment Corpus](https://github.com/WladimirSidorenko/PotTS): A dataset of 7,992 German tweets manually annotated with fine-grained  opinion relations. The dataset includes sentiment-relevant elements such as opinion spans, their respective sources and targets, as well as  terms with their possible contextual negations and modifiers.
+
+[German Emotion Dictionary](https://bitbucket.org/rklinger/german-emotion-dictionary/): In this repository, dictionaries for German emotion analysis for seven fundamental emotions are available.
+
+[SCARE](http://www.romanklinger.de/scare/): A sentiment corpus of Google Play Store app reviews with fine-grained  annotations in German. For each review the mentioned application aspects (e.g. application design or usability), subjective phrases, and  polarity are annotated.
+
+[Opinion Compound Dataset](http://www.coli.uni-saarland.de/~miwieg/naacl_2016_op_compounds_data.tgz): A dataset of roughly 3,000 German compounds that have been annotated with regard to opinion roles.
+
+[ANGST German affectiveness ratings](http://link.springer.com/article/10.3758/s13428-013-0426-y): Valence, arousal, dominance ratings for about one thousand German words.
+
+### German Audio Datasets
+
+[Open Speech Data Corpus for German](http://www.voxforge.org/home/forums/other-languages/german/open-speech-data-corpus-for-german): Audio recordings using several speakers from the LT and the  Teleccoperation group. The dataset contains roughly 35 hours of speech,  featuring about 180 speakers reading sentences from German Wikipedia,  protocols from European Parliament and individual commands.
+
+[Spoken Wikipedia Corpora](https://nats.gitlab.io/swc/): Dataset of aligned spoken Wikipedia articles from the English, German,  and Dutch Wikipedia. Hundreds of hours of aligned audio, and annotations can be mapped back to the original html.
+
+[CSS10 German](https://www.kaggle.com/bryanpark/german-single-speaker-speech-dataset): Single speaker speech datasets in German, composed of short audio clips from LibriVox audiobooks and their aligned texts.
 
 ---
 
@@ -49,6 +91,7 @@ COSMOV gathers corpora on the language of social movements in the German-speakin
 * [Archiv des Informationszentrums Dritte Welt](https://www.iz3w.org/projekte/das-dritte-welt-archiv)
 * [Antifaschistisches Pressearchiv und Bildungszentrum](https://www.apabiz.de/) (apabiz) in Berlin
 * [Bibliothek der Freien](https://www.bibliothekderfreien.de/), the biggest anarchist lib.
+* [COSMOV – Corpora for Social Movement Research](http://www.cosmov.uzh.ch/) gathers corpora on the language of social movements in the German-speaking world and makes them accessible for online analysis.
 
 ---
 
