@@ -24,23 +24,15 @@ The size of state-of-the-art language models is growing by a factor of 10 every 
 
 ### German Text Datasets
 
-[Huge German Corpus (HGC)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/hgc.en.html): A collection of 12.2 million sentences of German newspaper and law  texts. All content has been lemmatized and part-of-speech tagged by  TreeTagger.
-
-[3 Million German Sentences](https://www.kaggle.com/rtatman/3-million-german-sentences): 3 million German sentences taken from 2015 newspaper texts.  Non-sentences and non-German text has been removed, and information on  word frequency is also included.
-
-[German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset): 12,190 German recipes taken from [chefkoch.de](https://www.chefkoch.de/). Each document contains information about ingredients, instructions, creation date and more.
-
-[German Political Speeches Corpus](http://purl.org/corpus/german-speeches): A collection of 21st century political speeches held by top German  representatives from the German Presidency, Ministry of Foreign Affairs, Chancellery, and Presidency of the Bundestag.
-
-[NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A syntactically annotated corpus of German newspaper texts. Free on  request for all Universities and non-profit organizations. However, you  need to sign and send a form in order to obtain the complete dataset.
-
-[Digitales Woerterbuch der deutschen Sprache (dlexDB)](http://www.dlexdb.de/): A lexical database for psychological and linguistic research in German. The dataset contains over 100 million German word tokens.
-
-[Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): The first German topic classification dataset. It contains 10,273 German language news articles split up into nine classes.
-
-[SUBTLEX-DE](http://crr.ugent.be/subtlex-de/): Word frequencies of 25.4 million words from film and television subtitles.
-
-https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html: Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible
+* [Huge German Corpus (HGC)](https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/hgc.en.html): A collection of 12.2 million sentences of German newspaper and law  texts. All content has been lemmatized and part-of-speech tagged by  TreeTagger.
+* [3 Million German Sentences](https://www.kaggle.com/rtatman/3-million-german-sentences): 3 million German sentences taken from 2015 newspaper texts.  Non-sentences and non-German text has been removed, and information on  word frequency is also included.
+* [German Recipes Dataset](https://www.kaggle.com/sterby/german-recipes-dataset): 12,190 German recipes taken from [chefkoch.de](https://www.chefkoch.de/). Each document contains information about ingredients, instructions, creation date and more.
+* [German Political Speeches Corpus](http://purl.org/corpus/german-speeches): A collection of 21st century political speeches held by top German  representatives from the German Presidency, Ministry of Foreign Affairs, Chancellery, and Presidency of the Bundestag.
+* [NEGRA](http://www.coli.uni-saarland.de/projects/sfb378/negra-corpus/negra-corpus.html): A syntactically annotated corpus of German newspaper texts. Free on  request for all Universities and non-profit organizations. However, you  need to sign and send a form in order to obtain the complete dataset.
+* [Digitales Woerterbuch der deutschen Sprache (dlexDB)](http://www.dlexdb.de/): A lexical database for psychological and linguistic research in German. The dataset contains over 100 million German word tokens.
+* [Ten Thousand German News Articles Dataset](https://tblock.github.io/10kGNAD/): The first German topic classification dataset. It contains 10,273 German language news articles split up into nine classes.
+* [SUBTLEX-DE](http://crr.ugent.be/subtlex-de/): Word frequencies of 25.4 million words from film and television subtitles.
+* https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data.html: Collection of language resources for different NLP research projects. Datasets range from web-scale pre-processed corpora, distributional thesauri, named entity annotation, semantic and lexical substitution, multi-word and complex word annotations to recordings and acoustic models for speech recognition in German. Our datasets are distributed under CC-BY 4.0 license, i.e. free to use for all, whenever possible
 
 ---
 
