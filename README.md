@@ -1,8 +1,6 @@
 Notebooks from the Seminar:
 
-# Einführung in die Programmierung von Textgeneratoren < WS20/21
-
-### Introduction to programming text generators
+# Introduction to programming text generators
 
 Georg Trogemann, Christian Heck, Mattis Kuhn
 
@@ -15,8 +13,6 @@ Online @ BigBlueButton
 [Experimental Informatics](https://en.khm.de/exMedia_experimentelle_informatik/)
 
 Academy of Media Arts Cologne
-
-Email: g.trogemann@khm.de, c.heck@khm.de, m.kuhn@khm.de
 
 ### Description
 
